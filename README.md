@@ -36,7 +36,6 @@ Note: I coded the javascript code and use (html and css) code which coded by Jon
 this project was developed in The Complete JavaScript Course 2022: From Zero to Expert! couse 
 https://www.udemy.com/course/the-complete-javascript-course/
 
-Created by [Jonas Schmedtmann](https://github.com/jonasschmedtmann)
-Developed by [@Aly Qamar](https://www.linkedin.com/in/alyqamar) - alyelsamouly@gmail.com
-
+Created by [Jonas Schmedtmann](https://github.com/jonasschmedtmann) <br/>
+Developed by [@Aly Qamar](https://www.linkedin.com/in/alyqamar) - alyelsamouly@gmail.com <br/>
 [Project Link](https://github.com/alyQamar/Bankist)
