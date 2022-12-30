@@ -11,8 +11,7 @@ Password : 1111
 User : jd <br/>
 Password : 2222
 
-Live Demo: https://alyqamar.github.io/Bankist/
---
+[Live Demo](https://alyqamar.github.io/Bankist/) 
 
 ## :rocket: Technologies used:
 <p align="center">
