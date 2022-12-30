@@ -38,4 +38,3 @@ https://www.udemy.com/course/the-complete-javascript-course/
 
 Created by [Jonas Schmedtmann](https://github.com/jonasschmedtmann) <br/>
 Developed by [@Aly Qamar](https://www.linkedin.com/in/alyqamar) - alyelsamouly@gmail.com <br/>
-[Project Link](https://github.com/alyQamar/Bankist)
