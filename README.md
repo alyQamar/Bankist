@@ -30,7 +30,7 @@ Note: I coded the javascript code and use (html and css) code which coded by Jon
 
 ## Resource
 
-this project was developed in The Complete JavaScript Course 2022: From Zero to Expert! couse 
+this project was developed in The Complete JavaScript Course 2022: From Zero to Expert! course 
 https://www.udemy.com/course/the-complete-javascript-course/
 
 Created by [Jonas Schmedtmann](https://github.com/jonasschmedtmann) <br/>
